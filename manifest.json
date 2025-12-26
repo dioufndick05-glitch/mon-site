@@ -1,0 +1,23 @@
+
+{
+  "name": "Daara Maha Gestion",
+  "short_name": "Daara Maha",
+  "description": "Logiciel de gestion des mensualités Daara Maha Jumoohi",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2845/2845812.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2845/2845812.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
